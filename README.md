@@ -15,4 +15,4 @@ First, scrape the required fields that are listed below:
 7. Manufacturer i.e. Remington, Winchester, etc.
 For this scraper, use rotating proxies from this website http://www.freeproxylists.net/ (only US )
 
-The output should be in the list of dictionaries, finally represented in JSON.
+**The output should be in the list of dictionaries, finally represented in JSON.**
