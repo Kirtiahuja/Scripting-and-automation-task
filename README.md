@@ -1,5 +1,5 @@
 # Scripting-and-automation-task
-In this task,I wrote a scrapy spider  for a website URL:  https://www.midsouthshooterssupply.com/dept/reloading/primers
+In this task,you will write a scrapy spider  for a website URL:  https://www.midsouthshooterssupply.com/dept/reloading/primers
 
 Points to keep in mind:
 Make sure all the pages and all items are scraped.
