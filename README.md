@@ -14,4 +14,5 @@ First, scrape the required fields that are listed below:
 6. Stock status i.e. in-stock or out-stock. If in-stock then the value would true and for out-stock value should be false.
 7. Manufacturer i.e. Remington, Winchester, etc.
 For this scraper, use rotating proxies from this website http://www.freeproxylists.net/ (only US )
+
 The output should be in the list of dictionaries, finally represented in JSON.
